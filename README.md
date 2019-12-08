@@ -12,7 +12,7 @@ For now, here's a brief overview of China's Set 2 CSV file.
 
 
 
-### Each files contain these type of columns:
+### II. Each file contains these type of columns:
 userid: the user's indentification number
 
 user_display_name: the user's heading name
