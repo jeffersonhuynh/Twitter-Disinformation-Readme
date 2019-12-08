@@ -8,7 +8,7 @@ For now, here's a brief overview of China's Set 2 CSV file.
 
 ### I. Twitter Account  Description
 
-###### Note: This CSV file contains a total of 196 unique user accounts. There are a total of 152 account_language set to English, 32 account_language set to Chinese, 6 account_language set to French, 1 account_language set to Chinese (TW), 1 account_language set to Japanese. In addition, there were a total of  1,708,065 tweets sent out by the 196 users, ranging back from 2008 to 2019. The year of account creation varied, ranging from 2007 to 2019. Some of the tweets contained pornographic links and other user-friendly websites. 
+###### Note: The CSV file contains a total of 196 unique user accounts, as provided by Twitter. There are a total of 152 account_language set to English, 32 account_language set to Chinese (ZN), 6 account_language set to French, 1 account_language set to Chinese (TW), 1 account_language set to Japanese. In addition, there were a total of  1,708,065 tweets sent out by the 196 users, ranging back from 2008 to 2019. The year of account creation varied, ranging from 2007 to 2019. Some of the tweets contained pornographic links (which, unsurprisingly, garnered the most engagements) and others contained redirects to websites, messages shared by the users. However, when filtering out the data for HK protest-related messages, one particular user, "Dream News", shared a total of 14 tweets directed to the protests, which occurred for a span of one week. 
 
 
 
