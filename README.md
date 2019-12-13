@@ -1,14 +1,15 @@
-#  Global Act of Disinformation on Twitter - README
+# Hong Kong (HK) Media Disinformation on Twitter - README
 ###### By Jefferson Huynh
 
-###### The following dataset will contain a general overview of Twitter accounts from China, Saudi Arabia, Ecuador, United Arab Emirates, Spain, United Arab Emirates/Egypt, and Russia
+###### The following directory contains a general overview of banned Twitter accounts associated with spreading HK-related disinformation in the Twitter realm. The overview is comprised of 3 sets, all released by Twitter. 
 
-For now, here's a brief overview of China's Set 2 CSV file.
 
 
 ### I. Twitter Account  Description
 
-###### Note: The CSV file contains a total of 196 unique user accounts, as provided by Twitter. There are a total of 152 account_language set to English, 32 account_language set to Chinese (ZN), 6 account_language set to French, 1 account_language set to Chinese (TW), 1 account_language set to Japanese. In addition, there were a total of  1,708,065 tweets sent out by the 196 users, ranging back from 2008 to 2019. The year of account creation varied, ranging from 2007 to 2019. Some of the tweets contained pornographic links (which, unsurprisingly, garnered the most engagements) and others contained redirects to websites, messages shared by the users. However, when filtering out the data for HK protest-related messages, one particular user, "Dream News", shared a total of 14 tweets directed to the protests, which occurred for a span of one week. 
+###### Note: The CSV datasets (including set 1-3) contain a total of 5,241 unique user accounts. There are a total of 3,024 account_language set to English, 2,013 account_language set to Chinese (ZN), 90 account_language set to Chinese (TW), 46 account_language set to Russian, 20 account_language set to Spanish, 11 account_language set to Indonesian, 10 account_language set to Turkish, 9 account_language set to British English, 9 account_language set to Japanese, 6 account_language set to French, and 2 account_language set to Portuguese. In addition, there were a total of  13,847,718 tweets sent  by the 5,241 users. The year of tweet sent and account creation varied, ranging from 2007 to 2019. Some of the tweets contained pornographic links (which, unsurprisingly, garnered the most engagements) and others contained redirects to websites, messages shared by the users. 
+
+##### Change: However, when filtering out the data for HK protest-related messages, one particular user, "Dream News", shared a total of 14 tweets directed to the protests, which occurred for a span of one week. 
 
 
 
@@ -69,7 +70,7 @@ For now, here's a brief overview of China's Set 2 CSV file.
 
 * ulrs: the amount of links included in a single tweet
 
-* user_mentions: the user 
+* user_mentions: the user's mentions
 
-* poll_choices:
+* poll_choices: the user's selection of polls
 
